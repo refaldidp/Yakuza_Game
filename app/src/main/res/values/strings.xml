@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    // Image Descriptions (contentDescription)
+    <string name="yakuza_0_description">Yakuza 0</string>
+    <string name="yakuza_1_description">Yakuza 1</string>
+    <string name="yakuza_4_description">Yakuza 4</string>
+    <string name="yakuza_dragon_description">Yakuza Like a Dragon</string>
+
+    // Image Titles
+    <string name="yakuza_0_title">Yakuza 0\n</string>
+    <string name="yakuza_1_title">Yakuza 1\n</string>
+    <string name="yakuza_4_title">Yakuza 4\n</string>
+    <string name="yakuza_dragon_title">Yakuza Like a Dragon\n</string>
+
+    // Image Genre
+    <string name="yakuza_0">"SEGA "</string>
+
+
+    // Image Release Years
+    <string name="duarebulima">(2005)</string>
+    <string name="duarebusembilan">(2009)</string>
+    <string name="duarebuduapuluh">(2020)</string>
+    <string name="duarebulimabelas">(2015)</string>
+
+    // Buttons
+    <string name="next_button">Siguiente</string>
+    <string name='previous_button'>Anterior</string>
+</resources>
